@@ -11,6 +11,7 @@
 # Asset Packages
 *.unitypackage
 /Assets/AssetStoreTools*
+/Assets/Resources*
 
 # Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
@@ -24,6 +25,8 @@
 /SRDebugger/
 /stompyRobot/
 /Assets/StompyRobot*
+/Resources/
+/Materials/
 
 # フォント関連
 *.ttf
